@@ -1,1 +1,1 @@
-# ios_specta_templates
+Install scripts lifted and modified from: https://github.com/luiza-cicone/Specta-Templates-Xcode
